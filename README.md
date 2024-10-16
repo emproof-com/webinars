@@ -10,5 +10,5 @@ Below you’ll find a list of past webinars along with their topics, description
 
 | Date       | Webinar Title                         | Description                                  |  Recording                                |
 |------------|---------------------------------------|----------------------------------------------|-------------------------------------------------|
-| [2024-10-17](./2024-10-reverse_engineering/) | Reverse Engineering: How Attackers Uncover Secrets in Binaries                          | An introduction to reverse engineering from an attacker’s perspective, exploring how low-level code can be turned into meaningful information. Ghidra is introduced, and practical examples are used to analyze and crack example binaries.| [Watch on YouTube](https://www.youtube.com/XXX)    |
+| [2024-10-17](./2024-10-reverse_engineering/) | Reverse Engineering: How Attackers Uncover Secrets in Binaries                          | An introduction to reverse engineering from an attacker’s perspective, exploring how low-level code can be turned into meaningful information. Ghidra is introduced, and practical examples are used to analyze and crack example binaries.| TBA|
 
